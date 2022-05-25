@@ -47,7 +47,7 @@ image
 
 ❗ - Installation:
 1st・Installation (Source Code)
-git clone https://github.com/TT-Tutorials/GANG-Nuker
+git clone "https://github.com/Tool-Discord/SylexMultiTool"
 pip installations:
 
 - pip install colorama
@@ -57,10 +57,9 @@ pip installations:
 
 py gang.py
 2nd・Installation (Source Code Problems)
-https://github.com/TT-Tutorials/GANG-Nuker/releases
-Download the latest release (GANG-Nuker.zip)
+Download the latest release
 Drag it out to desktop and extract it
-type the command in CMD: py GANG.py
+type the command in CMD: py 
 then type the pip installations that it tells you to...
 
 if it keeps crashing here is the solution:
